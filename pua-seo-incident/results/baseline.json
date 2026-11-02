@@ -1,0 +1,23 @@
+{
+  "description": "Pre-cleanup baseline from Google Search Console (spam-query filter), pua.edu.eg property. Numbers are approximate as reported by the marketing team.",
+  "period": {
+    "label": "Aug-Oct 2026",
+    "from": "2026-08-01",
+    "to": "2026-10-31",
+    "days": 92
+  },
+  "spam": {
+    "clicks": 14000,
+    "impressions": 203000,
+    "thai_gambling_clicks": 7000,
+    "arabic_adult_clicks": 4900
+  },
+  "thailand_clicks": null,
+  "top_country": "Thailand",
+  "affected_hosts": [
+    "academic.pua.edu.eg",
+    "portal.pua.edu.eg",
+    "www.pua.edu.eg"
+  ],
+  "evidence": "Google SERP Thailand 2026-10-02: https://academic.pua.edu.eg/Account/Register ranked #1 with a Thai slot-gambling title; real title is 'Register - Instructor Work Load'."
+}
